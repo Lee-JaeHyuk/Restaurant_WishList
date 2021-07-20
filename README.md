@@ -1,4 +1,4 @@
-## Restaurant WishList  
+## Restaurant WishList<br/><br/> 
  
 ### **프로젝트 목표**
 - 네이버 검색 API와 SpringBoot를 활용한 나만의 음식점 위시리스트<br/><br/>
@@ -18,7 +18,7 @@
 검색 창에 원하는 음식점 종류를 작성하고 검색한다.
 
 - 2단계
-검색 된 음식점 중 가고 싶었던 집을 WishList에 추가한다.
+검색 된 음식점 중 가고 싶었던 집을 WishList에 추가한다.<br/><br/>
 
 
 ### **프로젝트 개발 사항**  
