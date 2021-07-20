@@ -27,7 +27,14 @@
 - Restaurant에 관한 Dto, Entity, Repository, Service, Controller 작성
 - Front는 JavaScript를 이용하여 간단하게 구성
 
-
+ <div align="center">
+  <h1>Naver API Searching Project</h1>
+  
+   <h2>Languages and Tools:</h2>
+  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="35" height="35"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/> </a> 
+  <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="35" height="35"/> </a> 
+ 
+  <h2>Spring-boot</h2>
 
 
 
