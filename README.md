@@ -1,4 +1,10 @@
-# Restaurant_WishList
+ <div align="center">
+  <h1>Restaurant_WishList</h1>
+  
+   <h2>Languages and Tools:</h2>
+  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="35" height="35"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/> </a> 
+  <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="35" height="35"/> </a> 
+ 
 
 ### **프로젝트 목표**
 - 네이버 검색 API와 SpringBoot를 활용한 나만의 음식점 위시리스트 
@@ -26,15 +32,6 @@
 - Naver 검색 API와 통신하기 위한 설정 및 Controller 추가
 - Restaurant에 관한 Dto, Entity, Repository, Service, Controller 작성
 - Front는 JavaScript를 이용하여 간단하게 구성
-
- <div align="center">
-  <h1>Naver API Searching Project</h1>
-  
-   <h2>Languages and Tools:</h2>
-  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="35" height="35"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/> </a> 
-  <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="35" height="35"/> </a> 
- 
-  <h2>Spring-boot</h2>
 
 
 
