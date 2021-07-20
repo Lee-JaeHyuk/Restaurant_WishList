@@ -8,8 +8,12 @@
 - Tool: Intelij
 - 개발SpringBoot Framework
 - API: 네이버 검색 
-|OS|TOOL|API|
-|Window|InteliJ|NaverAPI|
+
+|제목|내용|설명|
+|------|---|---|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
 
 
 ### 프러젝트 시나리오
