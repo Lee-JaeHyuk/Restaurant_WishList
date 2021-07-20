@@ -5,7 +5,7 @@
 
 ### 개발 환경
 |구분|상세 내용|
-|------|---|---|
+|------|---|
 |OS|Window10|
 |개발환경(IDE)|SpringBoot Framework|
 |개발도구|IntelliJ|
