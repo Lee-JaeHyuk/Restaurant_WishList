@@ -10,7 +10,7 @@
 |개발환경(IDE)|SpringBoot Framework|
 |개발도구(Tool)|IntelliJ|
 |개발언어|Java, JavaScript|
-|기타사항|Naver 검색 API|<br/><br/>
+|기타사항|Naver 검색 API|
 <br/><br/>
 
 ### **프러젝트 시나리오**
