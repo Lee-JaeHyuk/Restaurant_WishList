@@ -4,13 +4,11 @@
 - 네이버 검색 API와 SpringBoot를 활용한 나만의 음식점 위시리스트<br/><br/>
 
 ### **개발 환경**
-|구분|상세 내용|
-|------|---|
-|OS|Window10|
-|개발환경(IDE)|SpringBoot Framework|
-|개발도구(Tool)|IntelliJ|
-|개발언어|Java, JavaScript|
-|기타사항|Naver 검색 API|
+- OS: Window10
+- 개발환경: Spring-boot
+- 개발도구: IntelliJ IDEA
+- 개발언어: Java, Java Script
+- 기타사항: Naver Search API<br/><br/>
 
 ### **프러젝트 시나리오**
 - 1단계
